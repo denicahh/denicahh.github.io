@@ -12,7 +12,7 @@ url:                   https://denicahh.github.io
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               '/hydejack-starter-kit'
+baseurl:               '/'
 
 
 # General settings
@@ -23,7 +23,7 @@ baseurl:               '/hydejack-starter-kit'
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Denica Hope
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -32,7 +32,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               CTESTINGhange `tagline` in `_config.yml`
+tagline:               Github Pages Noob
 
 # A list of keywords for your blog
 keywords:              []
