@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating a blog post
-slug: blog
+slug: umm
 
 sitemap: false
 ---
