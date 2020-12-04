@@ -11,11 +11,12 @@ redirect_from:
 
 # About
 
-<!--author-->
+<!--author--> 
+testing to see if this will publish anything
 
 ## Hydejack
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+This should be deleted. A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
 
 1. this list will be replaced by the toc
