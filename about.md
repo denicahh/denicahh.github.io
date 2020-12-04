@@ -16,7 +16,7 @@ testing to see if this will publish anything - it works. This is located under a
 
 ## Hydejack
 
-This should be deleted. A boutique Jekyll theme for hackers, nerds, and academics.  
+This should be deleted it is located under about.md. A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
 
 1. this list will be replaced by the toc
