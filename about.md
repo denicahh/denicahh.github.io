@@ -12,7 +12,7 @@ redirect_from:
 # About
 
 <!--author--> 
-testing to see if this will publish anything
+testing to see if this will publish anything - it works. This is located under about.md
 
 ## Hydejack
 
