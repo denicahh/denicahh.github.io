@@ -7,11 +7,16 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    This is the section I write about me. in the authors.yml. Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
+  about:             | 
+
+    Hello and thanks for visiting my site. It is something I am working on in my spare time so it is very much still a work in progress. 
+
+    A little bit about me. I am a 27 year old Management Accountant who has decided to study a Bachelor of Computer Science on the side.
+    There are quite a few reasons I have decided to pursue this study path but in short I want to be able to automate, innovate, create, harness, protect, learn, and grow. 
+
+    In my personal life I enjoy going to the gym, attending the occaisional martial arts class, taking photos, and wrestling with my chocolate addiction. 
+
+    While I learn to naviate the world of HTML and this blog I will be leaving myself little notes on where to locate the source of this text so I can edit it in future :) 
     Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section
